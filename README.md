@@ -1,5 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=prasad-firame&style=flat-square)
 
+[website](https://firame.in) |
+[blog](https://firame.in/blogs) |
+[email](mailto:pfirame18@gmail.com)
+
 ---
 
 > Curious Individual • Swiss Army Knife • Vagabond Spirit
