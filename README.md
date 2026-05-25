@@ -11,6 +11,3 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="400"/>
 </p>
-
-> The graph stayed quiet while I wandered through ideas and unfinished experiments.  
-> Unique things take time. Before you forge the new, master the old.
