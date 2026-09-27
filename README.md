@@ -8,3 +8,5 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="400"/>
 </p>
+
+You can learn more about me, my work, and my experience in my [resume](https://firame.in/resume.pdf).
